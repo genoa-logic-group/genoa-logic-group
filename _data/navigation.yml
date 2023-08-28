@@ -1,0 +1,9 @@
+# main links links
+main:
+  - title: "Invited Talks"
+    url: /talks/
+  - title: "Programme" 
+    url: /programe/
+  - title: "venue"
+    url: /venue/
+

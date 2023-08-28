@@ -1,0 +1,97 @@
+invited: 
+  - author: Marco Maggesi 
+    affiliation: Università di Firenze
+    title: "Categories and Bicategories in UniMath" 
+    abs: "maggesi.txt" 
+    slot: "5a" 
+    video: "https://www.youtube.com/watch?v=bS6Wa2EB_E8&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=10" 
+  - author: Fabio Zanasi 
+    affiliation: University College London
+    title: Categorical Foundations of Machine Learning from Semantics to Verification 
+    abs: "zanasi.txt" 
+    slot: "3a" 
+    video: "https://www.youtube.com/watch?v=RBONVReskpc&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=15" 
+accepted:
+  - author: Marco Abbadini 
+    affiliation: "University of Salerno" 
+    title: "An approach `a la de Vries to compact Hausdorff spaces and closed relations" 
+    abs: "abbadini.pdf" 
+    slot: "1a"
+    video: "https://www.youtube.com/watch?v=KBxCCLfaWQs&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=2" 
+  - author: Federico Campanini 
+    affiliation: "Université catholique de Louvain" 
+    title: "Some recent results on pretorsion theories in lextensive categories" 
+    abs: "campanini.pdf" 
+    slot: "1b" 
+    video: "https://www.youtube.com/watch?v=3Y5HEkR0TjY&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=3" 
+  - author: Greta Coraglia
+    affiliation: University of Genoa 
+    title: "A fuzzy theory of types" 
+    abs: "coraglia.pdf"
+    slot: "2c" 
+    video: "https://www.youtube.com/watch?v=Sf0-CI6O3cQ&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=4" 
+  - author: "Sophie d’Espalungue" 
+    affiliation: "University of Lille" 
+    title: "Internal pseudomonoidal structures and Day convolution in monoidal 2-categories" 
+    abs: "despalungue.pdf" 
+    slot: "5b"
+    video: "https://www.youtube.com/watch?v=C83fgsxwihU&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=6" 
+  - author: Francesco Dagnino 
+    affiliation: University of Genoa 
+    title: "Relational doctrines, monads and lax algebras" 
+    abs: "dagnino.pdf" 
+    slot: "3b" 
+    video: "https://www.youtube.com/watch?v=66bdj2XGRwg&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=5" 
+  - author: Ivan Di Liberti 
+    affiliation: "Stockholm University" 
+    title: "The geometry of coherent topoi and ultrastructures" 
+    abs: "diliberti.pdf" 
+    slot: "" 
+  - author: Pietro Freni 
+    affiliation: "University of Leeds" 
+    title: "Summability in algebras of generalized power series and beyond" 
+    abs: "freni.pdf" 
+    slot: "" 
+  - author: Andrea Gagna
+    affiliation: "Institute of Mathematics, Czech Academy of Sciences" 
+    title: "A categorical take on Steiner omega-categories" 
+    abs: "gagna.pdf" 
+    slot: "2a"
+    video: "https://www.youtube.com/watch?v=l7nUm-ThswQ&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=7" 
+  - author: Andrea Laretto 
+    affiliation: "Tallinn University of Technology" 
+    title: "Categorical Semantics for Counterpart-based Temporal Logics in Agda" 
+    abs: "laretto.pdf" 
+    slot: "4c" 
+    video: "https://www.youtube.com/watch?v=-UwDqIsYnXA&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=8" 
+  - author: Fosco Loregian 
+    affiliation: "Tallinn University of Technology" 
+    title: A few remarks of the fibration of algebras
+    abs: "loregian.pdf" 
+    slot: "1c"
+    video: "https://www.youtube.com/watch?v=nlT2T_cvl-U&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=9" 
+  - author: Luca Mesiti
+    affiliation: University of Leeds
+    title: "Lax normal conical 2-limits and the Grothendieck construction" 
+    abs: "mesiti.pdf" 
+    slot: "2b"
+    video: "https://www.youtube.com/watch?v=6FuIE2ukSfM&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=11" 
+  - author: Guglielmo Nocera
+    affiliation: "Université Paris Sorbonne Paris Nord" 
+    title: The Exodromy Theorem 
+    abs: "nocera.pdf" 
+    slot: "4a"
+    video: "https://www.youtube.com/watch?v=DFXCSc_mgsM&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=12" 
+  - author: Matteo Spadetto 
+    affiliation: University of Leeds 
+    title: A conservativity-like result for a propositional type theory
+    abs: "spadetto.pdf" 
+    slot: "4b"
+    video: "https://www.youtube.com/watch?v=y03fvYo_GRQ&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=13" 
+  - author: Ruben van Belle 
+    affiliation: "University of Edinburgh" 
+    title: "Radon-Nikodym derivates and martingales using category theory" 
+    abs: "vanbelle.pdf" 
+    slot: "6a"
+    video: "https://www.youtube.com/watch?v=XvzCSaq-2Rk&list=PLwOJoZOlTAm9ScVRQn78Mt7XjNQmxsF5j&index=14" 
+
