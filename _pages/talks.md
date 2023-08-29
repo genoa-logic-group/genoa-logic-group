@@ -3,7 +3,7 @@ title: Invited Talks
 layout: collection 
 permalink: /talks/
 collection: talks 
-entries_layout: grid
+entries_layout: list
 
 ---
 
