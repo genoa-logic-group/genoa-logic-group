@@ -16,7 +16,7 @@ permalink: /programme/
 <tr>
   <td> {{ slot.time }} </td>
   <td> 
-    <a href="{{ t.id }}">{{ t.title }}</a> 
+    <a href="{{ t.url | relative_url }}">{{ t.author.name }}</a> 
   </td>
 </tr> 
 {%- endfor %} 

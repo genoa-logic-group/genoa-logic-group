@@ -188,7 +188,7 @@ defaults:
       type: talks
     values:
       layout: single
-      author_profile: false 
+      author_profile: true 
       header: 
         teaser: /assets/images/bio-photo-2.jpg 
 

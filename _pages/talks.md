@@ -1,12 +1,22 @@
 ---
 title: Invited Talks 
-layout: collection 
+layout: archive 
 permalink: /talks/
-collection: talks 
-entries_layout: list
-
 ---
 
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign entries = site.talks  %}
+
+<div class="entries-{{ entries_layout }}">
+
+  {%- for post in entries -%}
+    {%- unless post.hidden -%}
+      {% include talk-single.html %}
+    {%- endunless -%}
+  {%- endfor -%}
+
+</div>
 

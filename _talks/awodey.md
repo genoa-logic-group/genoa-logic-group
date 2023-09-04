@@ -1,15 +1,22 @@
 ---
-title: Steve Awodey
-excerpt: "A title" 
-sidebar:
-  - image: /assets/images/bio-photo-2.jpg 
-    image_alt: "photo" 
-  - text: "CMU"
-  - text: "<a href='https://www.google.it'>Home Page</a>" 
+title: TBA 
+author: 
+  name: Steve Awodey 
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
 slot: "1a" 
 ---
 
-**{{ page.excerpt }}**   
 an abstract ... 
 
 
