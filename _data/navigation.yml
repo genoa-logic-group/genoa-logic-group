@@ -2,6 +2,8 @@
 main:
   - title: "Invited Talks"
     url: /talks/
+  - title: "Public Event"
+    url: /public-event/
   - title: "Programme" 
     url: /programme/
   - title: "venue"
