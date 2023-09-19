@@ -1,7 +1,7 @@
 ---
 title: TBA 
 author: 
-  name: Nicola Gambino
+  name: Jaap van Oosten 
   bio: "What do you want, jewels? I am a very extravagant man."
   avatar: "/assets/images/bio-photo-2.jpg"
   links:
@@ -14,7 +14,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/extravagantman"
-slot: "1b" 
+slot: 
 ---
 
 an abstract ... 
