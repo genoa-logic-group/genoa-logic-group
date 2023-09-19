@@ -1,4 +1,4 @@
-- day: "Wednesday 21 December" 
+- day: "Thursday 12 September" 
   slots: 
   - type: "opening" 
     time: "09.20 - 09.30" 
@@ -46,7 +46,7 @@
     time: "19.00 - 20.00" 
   - type: "social dinner" 
     time: "20.00 - ..." 
-- day: "Thursday 22 December" 
+- day: "Friday 13 September" 
   slots: 
   - type: "talk" 
     invited: true
