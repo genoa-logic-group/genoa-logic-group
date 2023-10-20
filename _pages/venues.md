@@ -1,6 +1,6 @@
 ---
 title: Venues 
-permalink: /venues/
+permalink: /venue/
 --- 
 
 The two parts of the workshop will take place in different venues 
