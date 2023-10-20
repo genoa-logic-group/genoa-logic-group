@@ -4,7 +4,7 @@ layout: archive
 permalink: /talks/
 ---
 
-description 
+Below a list of tentative speakers (some of them to be confirmed) 
 
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
