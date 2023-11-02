@@ -172,16 +172,6 @@ defaults:
           text: "11 - 13 September 2024"
         - title: Where 
           text: DIMA, Genoa, Italy 
-        - title: Organising Committee
-          text: |
-              Riccardo Camerlo<br>
-              Greta Coraglia<br>
-              Francesco Dagnino<br>
-              Jacopo Emmenegger<br>
-              Enrico Ghiorzi<br>
-              Sara Negri<br>
-              Ruggero Pagnan<br>
-              Fabio Pasquali 
   # _talks
   - scope:
       path: ""

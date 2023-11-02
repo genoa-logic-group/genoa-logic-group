@@ -9,12 +9,27 @@ classes: wide
 ---
 
 
+
 {%- assign num_posts = site.posts | size %} 
 {%- if num_posts != 0 %}
+  {%- assign posts = site.posts | limit: 3 %} 
   <h3> News </h3> 
-  {%- for post in site.posts %}
+  {%- for post in posts  %}
     {% include archive-single.html %}
   {%- endfor %}
 {%- endif %}
+
+
+<h3> Organising Committee  </h3> 
+<ul> 
+  <li> Riccardo Camerlo  </li> 
+  <li> Greta Coraglia  </li> 
+  <li> Francesco Dagnino  </li>
+  <li> Jacopo Emmenegger </li>
+  <li> Enrico Ghiorzi </li>
+  <li> Sara Negri </li>
+  <li> Ruggero Pagnan </li>
+  <li> Fabio Pasquali </li>
+</ul> 
 
 
