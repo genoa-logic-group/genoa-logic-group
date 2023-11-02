@@ -168,6 +168,7 @@ defaults:
       author_profile: false 
       classes: wide 
       sidebar: 
+        - image: /assets/images/rosolini.jpeg 
         - title: When 
           text: "11 - 13 September 2024"
         - title: Where 
