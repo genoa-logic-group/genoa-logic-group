@@ -7,5 +7,9 @@ Pino has always been involved and a driver of opportunities of diffusion of math
 
 To engage the general public this event will be held in italian. 
 
+The event will be coordinated by 
+* Roberto Lucchetti (Politecnico di Milano) 
+* Roberto Natalini (CNR) 
+
 
 
