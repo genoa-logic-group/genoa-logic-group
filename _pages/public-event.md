@@ -9,7 +9,7 @@ To engage the general public this event will be held in italian.
 
 The event will be coordinated by 
 * Roberto Lucchetti (Politecnico di Milano) 
-* Roberto Natalini (CNR) 
+* Roberto Natalini (Consiglio Nazionale delle Ricerche) 
 
 
 
