@@ -17,18 +17,20 @@ classes: wide
 {%- assign num_posts = site.posts | size %} 
 {%- if num_posts != 0 %}
   {%- assign posts = site.posts | limit: 3 %} 
-  <h3> News </h3> 
-  {%- for post in posts  %}
-    {% include archive-single.html %}
-  {%- endfor %}
+  <h2> News </h2> 
+  <div class="entries-list"> 
+    {%- for post in posts  %}
+      {% include archive-single.html %}
+    {%- endfor %}
+  </div> 
 {%- endif %}
 
 
-<h3> Contacts </h3> 
+<h2> Contacts </h2> 
 <p> For any information, please send an e-mail to: <br> 
  eccl-2024 [at] dima [dot] unige [dot] it </p> 
 
-<h3> Organising Committee  </h3> 
+<h2> Organising Committee  </h2> 
 <ul> 
   <li> Riccardo Camerlo  </li> 
   <li> Greta Coraglia  </li> 
