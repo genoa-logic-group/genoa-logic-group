@@ -1,4 +1,16 @@
 
+- image_path: /assets/images/logo-unige.png 
+  url: https://unige.it
+  title: UniGe 
+  alt: logo unige 
+- image_path: /assets/images/logo-dima.jpg 
+  url: https://dima.unige.it 
+  title: DIMA 
+  alt: logo dima 
+- image_path: /assets/images/logo_dibris.png 
+  url: https://dibris.unige.it 
+  title: DIBRIS 
+  alt: logo dibris 
 - image_path: /assets/images/logo-indam-gnsaga.png 
   url: http://www.altamatematica.it/gnsaga/ 
   title: GNSAGA 
