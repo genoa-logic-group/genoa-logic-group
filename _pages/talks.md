@@ -1,10 +1,8 @@
 ---
-title: Invited Talks 
+title: Speakers 
 layout: archive 
 permalink: /talks/
 ---
-
-Below a tentative list of speakers (some of them to be confirmed) 
 
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
