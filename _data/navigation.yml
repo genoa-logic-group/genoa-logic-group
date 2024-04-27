@@ -6,6 +6,8 @@ main:
     url: /public-event/
 #  - title: "Programme" 
 #    url: /programme/
+  - title: "Participants"
+    url: /participants/ 
   - title: "Venue"
     url: /venue/
 
