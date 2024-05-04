@@ -21,7 +21,7 @@ fs.writeFileSync(emails, "")
 data.forEach( item => { 
   if (!invited.includes(item.surname)) { 
     fs.appendFileSync(emails,`${item.email},\n`) 
-    if (item.website) { 
+    if (item.website == "Yes") { 
       fs.appendFileSync(output, `- name: ${item.name}\n`)
       fs.appendFileSync(output, `  surname: ${item.surname}\n`)
       fs.appendFileSync(output, `  affiliation: ${item.affiliation}\n`)
