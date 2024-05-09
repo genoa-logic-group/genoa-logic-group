@@ -1,6 +1,15 @@
 const fs = require('fs') 
 const parse = require('csv-parse/sync').parse 
 
+function capitalizeAll(str) {
+  const words = str.split(" ")
+  let res = "" 
+  for (let i = 0; i < words.length; i++) {
+    res = res + words[i].charAt(0).toUpperCase() + words[i].slice(1) + " " 
+  }
+  return res 
+}
+
 const input = 'participants.csv' 
 const output = 'participants.yml' 
 const emails = 'emails.txt' 
@@ -22,8 +31,8 @@ data.forEach( item => {
   if (!invited.includes(item.surname)) { 
     fs.appendFileSync(emails,`${item.email},\n`) 
     if (item.website == "Yes") { 
-      fs.appendFileSync(output, `- name: ${item.name}\n`)
-      fs.appendFileSync(output, `  surname: ${item.surname}\n`)
+      fs.appendFileSync(output, `- name: ${capitalizeAll(item.name)}\n`)
+      fs.appendFileSync(output, `  surname: ${capitalizeAll(item.surname)}\n`)
       fs.appendFileSync(output, `  affiliation: ${item.affiliation}\n`)
     } 
   } 
