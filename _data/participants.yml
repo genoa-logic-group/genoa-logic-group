@@ -1,66 +1,72 @@
-- name: Luca
-  surname: Mesiti
+- name: Luca 
+  surname: Mesiti 
   affiliation: University of Leeds
-- name: Samuele
-  surname: Maschio
+- name: Samuele 
+  surname: Maschio 
   affiliation: Università di Padova
-- name: Elena
-  surname: Caviglia
+- name: Elena 
+  surname: Caviglia 
   affiliation: University of Leicester 
-- name: Giuseppe
-  surname: Metere
+- name: Giuseppe 
+  surname: Metere 
   affiliation: Università degli Studi di Milano
-- name: Matteo
-  surname: Capucci
+- name: Matteo 
+  surname: Capucci 
   affiliation: University of Strathclyde
-- name: Cipriano Junior 
-  surname: Cioffo 
+- name: Cipriano Junior  
+  surname: Cioffo  
   affiliation: Università degli studi di Padova 
-- name: Fulvia
-  surname: Furinghetti
+- name: Fulvia 
+  surname: Furinghetti 
   affiliation: former full professor university of Genoa (mathematics department)
-- name: Guido
-  surname: Boccali
+- name: Guido 
+  surname: Boccali 
   affiliation: Università di Torino
-- name: Wesley
-  surname: Phoa
+- name: Wesley 
+  surname: Phoa 
   affiliation: Topos Institute
-- name: Fabio
-  surname: Gadducci
+- name: Fabio 
+  surname: Gadducci 
   affiliation: Universita' di Pisa
-- name: Umberto
-  surname: Tarantino
+- name: Umberto 
+  surname: Tarantino 
   affiliation: Università degli Studi di Milano
-- name: Giacomo
-  surname: Lenzi
+- name: Giacomo 
+  surname: Lenzi 
   affiliation: University of Salerno
-- name: Alex
-  surname: Simpson
+- name: Alex 
+  surname: Simpson 
   affiliation: University of Ljubljana
-- name: Fabio
-  surname: Tanturri
+- name: Fabio 
+  surname: Tanturri 
   affiliation: Università di Genova
-- name: Youssef
-  surname: Attia
+- name: Youssef 
+  surname: Attia 
   affiliation: ISME
-- name: Nicoletta
-  surname: Sabadini
-  affiliation: Università Insubria
-- name: Matías
-  surname: Menni
+- name: Nicoletta 
+  surname: Sabadini 
+  affiliation: università Insubria
+- name: Matías 
+  surname: Menni 
   affiliation: Conicet and Universidad Nacional de La Plata
-- name: Ming
-  surname: Ng
+- name: Ming 
+  surname: Ng 
   affiliation: 
-- name: Peter
-  surname: Schuster
+- name: Peter 
+  surname: Schuster 
   affiliation: University of Verona
-- name: Federica
-  surname: Piazza
+- name: Federica 
+  surname: Piazza 
   affiliation: Università degli Studi di Palermo
-- name: Daniele
-  surname: Palombi
+- name: Daniele 
+  surname: Palombi 
   affiliation: 
-- name: Iosif
-  surname: Petrakis
+- name: Iosif 
+  surname: Petrakis 
   affiliation: University of Verona
+- name: Sam 
+  surname: Speight 
+  affiliation: University of Birmingham
+- name: Francesca 
+  surname: Morselli 
+  affiliation: DIMA
