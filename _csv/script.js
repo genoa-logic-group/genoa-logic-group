@@ -15,9 +15,9 @@ const output = 'participants.yml'
 const emails = 'emails.txt' 
 const enc = 'utf8'
 
-const invited = ['Awodey','Maietti','Moggi']
+const invited = ['Awodey','Maietti','Moggi','Vitale']
 
-let opt = { 
+const opt = { 
  columns: hd => ['timestamp','email','name','surname','affiliation','website',undefined], 
   skip_empty_lines: true
 } 
@@ -27,16 +27,19 @@ let data = parse(fs.readFileSync(input,enc), opt)
 fs.writeFileSync(output, "") 
 fs.writeFileSync(emails, "") 
 
-data.forEach( item => { 
-  if (!invited.includes(item.surname)) { 
-    fs.appendFileSync(emails,`${item.email},\n`) 
+let emailsList = []
+
+for (let item of data) {
+  if (!invited.includes(item.surname) && !emailsList.includes(item.email)) { 
     if (item.website == "Yes") { 
       fs.appendFileSync(output, `- name: ${capitalizeAll(item.name)}\n`)
       fs.appendFileSync(output, `  surname: ${capitalizeAll(item.surname)}\n`)
       fs.appendFileSync(output, `  affiliation: ${item.affiliation}\n`)
     } 
+    emailsList.push(item.email) 
+    fs.appendFileSync(emails,`${item.email},\n`) 
   } 
-}) 
+} 
 
 
 
