@@ -6,7 +6,7 @@ categories:
 
 This is the third announcement for the workshop
 
-*Effectiveness and Continuity in Categorical Logic*
+**Effectiveness and Continuity in Categorical Logic**  
 https://logic.dima.unige.it/eccl-24/
 
 which will be held in Genoa on September 12th and 13th, 2024, to celebrate the 70th birthday of Pino Rosolini.  
@@ -15,7 +15,7 @@ which will be held in Genoa on September 12th and 13th, 2024, to celebrate the 7
 There is no registration fee. However, we kindly ask people intending to attend to register, the sooner the better, by filling out the form at <https://docs.google.com/forms/d/1GEuEoft_fk9HHRmyOlBJIvWy-FzRkKnHrcRzozVMrZg/edit>.
 Otherwise, we cannot guarantee good coffee for everyone.
 
-If possible, we will try to arrange a few minutes slot for short recorded video-messages from people who want but cannot attend in person, and we will try to make it accessible also remotely.
+We will try to arrange a few minutes slot for short recorded video-messages from people who would like but cannot attend in person, and we will try to make it accessible also remotely.
 
 The meeting is supported by DIMA, DIBRIS, INdAM-GNSAGA, AILA, UniGe and MaddMaths, and will consist of two parts.
 
