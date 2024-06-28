@@ -17,7 +17,7 @@ Otherwise, we cannot guarantee good coffee for everyone.
 
 If possible, we will try to arrange a few minutes slot for short recorded video-messages from people who want but cannot attend in person, and we will try to make it accessible also remotely.
 
-The meeting will consist of two parts:
+The meeting is supported by DIMA, DIBRIS, INdAM-GNSAGA, AILA, UniGe and MaddMaths, and will consist of two parts.
 
 - A scientific workshop on Sept 12th and in the morning of Sept 13th, held at the department of mathematics of the University of Genoa, focusing on the topics related to the main scientific interests and contributions of Pino Rosolini.
 The following speakers have agreed to give a talk:
