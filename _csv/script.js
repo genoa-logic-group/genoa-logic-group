@@ -28,9 +28,11 @@ fs.writeFileSync(output, "")
 fs.writeFileSync(emails, "") 
 
 let emailsList = []
+let count = 0 
 
 for (let item of data) {
   if (!invited.includes(item.surname) && !emailsList.includes(item.email)) { 
+    count += 1 
     if (item.website == "Yes") { 
       fs.appendFileSync(output, `- name: ${capitalizeAll(item.name)}\n`)
       fs.appendFileSync(output, `  surname: ${capitalizeAll(item.surname)}\n`)
@@ -40,6 +42,8 @@ for (let item of data) {
     fs.appendFileSync(emails,`${item.email},\n`) 
   } 
 } 
+
+console.log("participants " + count) 
 
 
 
