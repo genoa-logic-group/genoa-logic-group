@@ -11,6 +11,8 @@ The event will be coordinated by
 * Roberto Lucchetti (Politecnico di Milano) 
 * Roberto Natalini (Consiglio Nazionale delle Ricerche) 
 
+More information can be found at [this page]({{'/show/' | relative_url }}). 
+
 This event will take place at **Teatro Instabile**, Via Cecchi 19r, Genova, Italy 
 
 
