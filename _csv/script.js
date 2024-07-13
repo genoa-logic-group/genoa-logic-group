@@ -15,7 +15,7 @@ const output = 'participants.yml'
 const emails = 'emails.txt' 
 const enc = 'utf8'
 
-const invited = ['Awodey','Maietti','Moggi','Vitale']
+const invited = ['Awodey','Maietti','Moggi','Vitale','Streicher']
 
 const opt = { 
  columns: hd => ['timestamp','email','name','surname','affiliation','website',undefined], 
