@@ -28,7 +28,10 @@ intro:
       * Roberto Lucchetti (Plitecnico di Milano) 
       * Roberto Natalini (Consiglio Nazionale delle Ricerche) 
       
-      Questo evento è associato al workshop **Effectiveness and Continuity in Categorical Logic**, [scopri di più](/eccl-24/) 
+      Questo evento è associato al workshop **Effectiveness and Continuity in Categorical Logic**  
+    url: "/eccl-24/" 
+    btn_label: "Scopri di più"
+    btn_class: "btn--primary"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
