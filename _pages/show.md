@@ -29,7 +29,7 @@ intro:
       * Roberto Natalini (Consiglio Nazionale delle Ricerche) 
       
       Questo evento è associato al workshop **Effectiveness and Continuity in Categorical Logic**  
-    url: "/eccl-24/" 
+    url: "/" 
     btn_label: "Scopri di più"
     btn_class: "btn--primary"
 feature_row:
