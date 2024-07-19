@@ -25,7 +25,7 @@ intro:
     btn_class: "btn--primary"
   - title: Organizzatori 
     excerpt: | 
-      * Roberto Lucchetti (Plitecnico di Milano) 
+      * Roberto Lucchetti (Politecnico di Milano) 
       * Roberto Natalini (Consiglio Nazionale delle Ricerche) 
       
       Questo evento è associato al workshop **Effectiveness and Continuity in Categorical Logic**  
