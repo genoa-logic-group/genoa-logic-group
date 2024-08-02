@@ -9,8 +9,6 @@ author:
 slot: 
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 
 We first give a characterization of cartesian objects in the cartesian 2-category $$\mathsf{OpICat}$$ of opindexed categories. It turns out that any such object is given by a pseudofunctor $$\Phi\colon \mathbb{B}\to \mathsf{Cat}$$, where $$\mathbb{B}$$ has finite products and, considering the consequent canonical oplax monoidal structure $$\mathcal{L}$$ on $$\Phi$$, $$\mathcal{L}$$  admits a right adjoint $$\mathcal{R}$$, which makes $$\Phi$$ a lax monoidal pseudofunctor.
 As a consequence, we find that **discrete** cartesian objects are nothing but finite-product preserving functors $$\Phi\colon \mathbb{B}\to \mathsf{Set}$$.
