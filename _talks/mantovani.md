@@ -6,6 +6,7 @@ author:
   location: Università di Milano, Italy
   bio: 
   avatar: "/assets/images/bio-photo-2.jpg"
+mathjax: true 
 slot: 
 ---
 

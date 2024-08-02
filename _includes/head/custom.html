@@ -2,7 +2,9 @@
 
 <link type="text/css" rel="stylesheet" href="{{ '/assets/css/mycolours.css' | relative_url }}"> 
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{%- if page.mathjax %} 
+  <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{%- endif %} 
 
 <!-- end custom head snippets -->
 
