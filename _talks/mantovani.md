@@ -1,5 +1,5 @@
 ---
-title: Cartsian and 2-additive opindexed categories 
+title: Cartesian and 2-additive opindexed categories 
 author: 
   name: Sandra Mantovani 
   home: http://users.mat.unimi.it/users/mantovani/
