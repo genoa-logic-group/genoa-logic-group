@@ -8,6 +8,7 @@ author:
   avatar: "/assets/images/bio-photo-2.jpg"
 slot: 
 ---
+Joint work with Julia Ramos Gonzalez.
 
 A cornerstone in homological algebra is the fact that, starting from a short exact sequence of chain complexes in an abelian category, one can construct a long exact sequence relating the homology objects of the original complexes. Usually one proves first the snake lemma, and then gets the long exact sequence in homology pasting together infinitely many copies of the six-term snake sequence.
 
@@ -18,8 +19,6 @@ In this talk, we show that it is possible to use the snail lemma instead of the 
 Even if the idea is quite simple, to state and prove it properly we have to introduce a new concept, that we call a sequentiable family of arrows.
 
 The idea behind a sequentiable family is to focus our attention not on the homology objects associated with a chain complex, but on the homology arrows, that is, those arrows whose kernel and cokernel provide the homology objects. This allows us to formulate the snail lemma inside the category of sequentiable families, which is equipped with a structure of nullhomotopies more convenient than the one usually considered in the category of chain complexes.
-
-Joint work with Julia Ramos Gonzalez.
 
 [1] E.M. Vitale, The snail lemma, TAC 31 (2016).  
 [2] Z. Janelidze, E.M.Vitale, The snail lemma in a pointed regular category, JPAA 221 (2017).  
