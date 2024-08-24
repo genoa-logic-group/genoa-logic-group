@@ -6,7 +6,7 @@ author:
   location: Università di Genova, Italy
   bio: 
   avatar: "/assets/images/bio-photo-2.jpg"
-slot: "1c" 
+slot: "2a"  
 ---
 
 In 1998 Manes introduced the notion of collection monad on the

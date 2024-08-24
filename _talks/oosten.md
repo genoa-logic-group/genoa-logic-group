@@ -6,7 +6,7 @@ author:
   location: Universiteit Utrecht, Netherlands
   bio: 
   avatar: "/assets/images/bio-photo-2.jpg"
-slot: 
+slot: "3b" 
 ---
 
 One of Rosolini's landmark discoveries is the notion of dominance.

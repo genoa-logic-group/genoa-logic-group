@@ -6,7 +6,7 @@ author:
   location: Carnegie Mellon University, US
   bio: 
   avatar: "/assets/images/bio-photo-2.jpg"
-slot: "1a" 
+slot: "6a" 
 ---
 (jww/Jonas Frey)
 

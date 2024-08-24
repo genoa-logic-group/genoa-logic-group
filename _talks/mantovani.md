@@ -7,7 +7,7 @@ author:
   bio: 
   avatar: "/assets/images/bio-photo-2.jpg"
 mathjax: true 
-slot: 
+slot: "5b" 
 ---
 
 
