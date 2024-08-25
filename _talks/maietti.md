@@ -1,5 +1,5 @@
 ---
-title: Predicative effectivity and continuity via the elementary quotient completion 
+title: Predicative effectiveness and continuity via the elementary quotient completion 
 author: 
   name: Maria Emilia Maietti
   home: https://www.math.unipd.it/~maietti/
@@ -17,7 +17,7 @@ on one hand
 and on the other hand
 2. a constructive and predicative fibred quasi-topos of assemblies that validates  Brouwer's continuity principles and only the instance of  the Formal Church's thesis on quasi-topos morphisms.
 
-These predicative topos-like constructions stem from the categorical analysis of the Effective topos and of its subcategory of Assemblies in terms of completions in  [RR90, MPR19, MT21, MT23] and  employs the tripos-to-quasi-topos construction provided in [MPR23].  They will be applied to provide predicative consistency proofs for the two-level Minimalist Foundation [MS05,M09] with the above-mentioned principles of effectivity and continuity.
+These predicative topos-like constructions stem from the categorical analysis of the Effective topos and of its subcategory of Assemblies in terms of completions in  [RR90, MPR19, MT21, MT23] and  employs the tripos-to-quasi-topos construction provided in [MPR23].  They will be applied to provide predicative consistency proofs for the two-level Minimalist Foundation [MS05,M09] with the above-mentioned principles of effectiveness and continuity.
 
 
 * [CMM24] C.J. Cioffo, M.E. Maietti, and S. Maschio "Fibred sets within a predicative and constructive Effective Topos", 2024
