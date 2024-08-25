@@ -1,12 +1,12 @@
 - name: Luca 
   surname: Mesiti 
-  affiliation: University of KwaZulu-Natal
+  affiliation: University of Leeds
 - name: Samuele 
   surname: Maschio 
   affiliation: Università di Padova
 - name: Elena 
   surname: Caviglia 
-  affiliation: Stellenbosch University
+  affiliation: University of Leicester 
 - name: Giuseppe 
   surname: Metere 
   affiliation: Università degli Studi di Milano
@@ -139,3 +139,12 @@
 - name: Carlo 
   surname: Toffalori 
   affiliation: Università di Camerino
+- name: Mamuka 
+  surname: Jibladze 
+  affiliation: TSU Razmadze Mathematical Institute, Tbilisi
+- name: Caterina 
+  surname: Sioli 
+  affiliation: Università Statale degli Studi di Milano
+- name: Joshua 
+  surname: Wrigley 
+  affiliation: Queen Mary University of London
