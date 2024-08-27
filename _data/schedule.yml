@@ -31,6 +31,8 @@
   - type: "talk" 
     id: "4b" 
     time: "17.20 - 18.10" 
+  - type: "social dinner" 
+    time: "20.00 - 23.00" 
 - day: "Friday 13 September" 
   slots: 
   - type: "talk" 
