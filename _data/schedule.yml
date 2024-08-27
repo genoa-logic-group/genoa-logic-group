@@ -48,4 +48,7 @@
     time: "11.20 - 12.10" 
   - type: "closing" 
     time: "12.10 - 13.00" 
+  - type: "public event" 
+    time: "17.00 - 19.00" 
+
 
