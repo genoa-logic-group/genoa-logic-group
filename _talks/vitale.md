@@ -6,7 +6,7 @@ author:
   location: Université catholique de Louvain, Belgium
   bio: 
   avatar: "/assets/images/bio-photo-2.jpg"
-slot: "4b" 
+slot: "4a"
 ---
 Joint work with Julia Ramos Gonzalez.
 

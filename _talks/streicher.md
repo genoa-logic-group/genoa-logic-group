@@ -6,7 +6,6 @@ author:
   location: Technische Universität Darmstadt, Germany
   bio: 
   avatar: "/assets/images/bio-photo-2.jpg"
-slot: "2b"  
 ---
 
 We discuss some partial results on separating the notions of
