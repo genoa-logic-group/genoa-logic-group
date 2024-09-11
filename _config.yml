@@ -173,7 +173,7 @@ defaults:
         - title: When 
           text: "12 - 13 September 2024"
         - title: Where 
-          text: DIMA, Genoa, Italy 
+          text: Room 508 at DIMA, Genoa, Italy 
   # _talks
   - scope:
       path: ""
