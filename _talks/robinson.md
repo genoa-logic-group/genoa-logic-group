@@ -6,7 +6,7 @@ author:
   location: Queen Mary, University of London, UK
   bio: 
   avatar: "/assets/images/bio-photo-2.jpg"
-slot: "5a" 
+slot: "3b" 
 ---
 
 
